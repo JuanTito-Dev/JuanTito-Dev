@@ -25,6 +25,8 @@ Seguir aprendiendo y perfeccionando mis habilidades en desarrollo backend e inte
 - Certificados en cursos de desarrollo backend y machine learning en **Udemy**.  
 - Proyectos propios y colaborativos desplegados y en uso real.  
 
+[Ver Certificados](/Cretificados.md)
+
 ---
 
 ## 🔧 Tecnologías y herramientas
