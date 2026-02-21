@@ -1,6 +1,6 @@
 # 👋 Hola, soy Juan Jose Tito Escobar
 
-| ![Foto](Copilot_20250816_230822.png) | Junior .NET Backend Developer especializado en ASP.NET Core. |
+| ![Foto](Copilot_20250816_230822.png) | Junior .NET Backend Developer especializado en el desarrollo de aplicaciones con ASP.NET Core y C#. Enfocado en arquitectura limpia, seguridad y buenas prácticas en APIs y aplicaciones web.. |
 |--------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
 
