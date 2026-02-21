@@ -1,6 +1,6 @@
 # 👋 Hola, soy Juan Jose Tito Escobar
 
-| ![Foto](Copilot_20250816_230822.png) | Soy desarrollador web especializado en **backend con .NET** y en **integración de inteligencia artificial** mediante **Python y C++**. Participé en competencias de programación como **ICPC**, donde fortalecí mis habilidades en lógica, algoritmos y resolución de problemas, también tengo conocimientos en HTML, CSS y JavaScript. |
+| ![Foto](Copilot_20250816_230822.png) | Junior .NET Backend Developer especializado en ASP.NET Core. |
 |--------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
 
