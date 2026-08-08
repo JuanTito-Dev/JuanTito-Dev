@@ -1,6 +1,6 @@
 # 👋 Hola, soy Juan Jose Tito Escobar
 
-| ![Foto](Copilot_20250816_230822.png) | JJunior .NET Backend Developer especializado en la construcción de APIs y aplicaciones web con ASP.NET Core y C#. Experiencia en diseño de arquitectura en capas, autenticación y autorización con JWT e Identity, integración con bases de datos SQL Server y almacenamiento en AWS. Orientado a buenas prácticas, seguridad y desarrollo de soluciones escalables. |
+| ![Foto](Copilot_20250816_230822.png) | Junior .NET Backend Developer especializado en la construcción de APIs y aplicaciones web con ASP.NET Core y C#. Experiencia en diseño de arquitectura en capas, autenticación y autorización con JWT e Identity, integración con bases de datos SQL Server y almacenamiento en AWS. Orientado a buenas prácticas, seguridad y desarrollo de soluciones escalables. |
 |--------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
 
